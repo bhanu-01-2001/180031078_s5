@@ -17,7 +17,7 @@ public static void main(String[] args) {
 			s=s+a[i];
 		}
 		av=s/n;
-		System.out.println("Sum is"+s+"Avg is"+av);
+		System.out.println("Sum is "+s+" Avg is "+av);
 		sc.close();
 	}
 

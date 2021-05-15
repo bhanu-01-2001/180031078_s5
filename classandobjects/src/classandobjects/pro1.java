@@ -18,7 +18,7 @@ public class pro1 {
    
     public static void main(String[] args) {
        
-    pro1 bc = new pro1(8.5,80.3,9.6);
+    pro1 bc = new pro1(9.5,90.3,9.6);
     System.out.println(bc.volume());
 
     }
